@@ -8,3 +8,4 @@ alias yash='yaourt_search'
 alias yai='yaourt -S'
 alias yar='yaourt -R'
 
+alias paci='pac_install_rehash'
